@@ -9,7 +9,8 @@
 - Research Paper Writing & Publication Process   
   
 
-🔭 **Recent Projects:**  
+🔭 **Recent Projects:** 
+- 🛒 Blinkit sales analysis in PowerBi
 - 📊 Financial Dashboard in Excel    
 - 🎬 Amazon Prime Dashboard in PowerBi
 - 🏙️ Urban Climate Change Research using MODIS data
